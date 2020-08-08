@@ -1,4 +1,5 @@
-(1) FEATURE EXPECTATIONS [5 min]
+Follow the pattern as READ 
+(1) REQUIREMENTS - FEATURE EXPECTATIONS [5 min]
 ```
         (1) Use cases
         (2) Scenarios that will not be covered
@@ -22,13 +23,13 @@
                 - Amount of data you want to store in disk/ssd
 ```
 
-(3) DESIGN GOALS [5 min]
+(3) AVAILABILITY - DESIGN GOALS [5 min]
 ```
         (1) Latency and Throughput requirements
         (2) Consistency vs Availability  [Weak/strong/eventual => consistency | Failover/replication => availability]
 ```
 
-(4) HIGH LEVEL DESIGN [5-10 min]
+(4) DESIGN - HIGH LEVEL DESIGN [5-10 min]
 ```
         (1) APIs for Read/Write scenarios for crucial components
         (2) Database schema
